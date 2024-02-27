@@ -1,0 +1,1 @@
+# dizi_ile_ogrenci_kayit_sistemi
